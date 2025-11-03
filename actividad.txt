@@ -1,1 +1,1 @@
-Práctica de campo: creacíón de archivo en rama y Pull Request
+Práctica de campo: creación de archivo en rama y Pull Request
